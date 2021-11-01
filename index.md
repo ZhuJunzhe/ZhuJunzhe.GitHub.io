@@ -1,35 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Junzhe's Pages
 
 Thanks for visiting
 
-### Markdown
+### About:  
+My Linkedin 
+https://www.linkedin.com/in/junzhe-zhu-a79829145/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact:
 
-```markdown
-Syntax highlighted code block
-
-xx
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhuJunzhe/ZhuJunzhe.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Email: zhujunzhe7@gmail.com
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any question, please send me an email.
